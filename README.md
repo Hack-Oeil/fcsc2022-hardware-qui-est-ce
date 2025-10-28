@@ -12,7 +12,7 @@ Fichiers :
 - [circuit.png](circuit.png)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Qui est-ce ?](https://hackropole.fr/fr/challenges/hardware/fcsc2022-hardware-qui-est-ce/)
 
